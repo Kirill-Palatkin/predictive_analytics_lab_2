@@ -18,5 +18,6 @@ pip install -r requirements.txt
 |---|---:|
 | MAE | 0,0626 |
 | RMSE | 0,0770 |
+| MAPE | 35,66% |
 | WAPE | 29,85% |
 | Точность направления | 58,47% |
